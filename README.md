@@ -1,4 +1,4 @@
-xsource
-=======
+xchema source
+==============
 
-Code editor
+Source code editor
